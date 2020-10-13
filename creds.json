@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "manage-online-shop-uneeds",
+  "private_key_id": "d3733c531c661d9444141a928a98cfe0811f572f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhtl9sExPuODYi\n1CpPCR5Fqx9RdNrYkxLj1JzF9NuqTd/GVErVnW9nen1CQh1nVNo24IguReTuYp1h\nF/F6S989hLCbn9hDiXRjUoPuxzkTwWAK3PEmuDxZXSSjE36q22whCUpbF2Al92xF\nYGmPgqb7OFn8sN+67v2zCJG5QLnNVwX98+rpzG4gggMk4UQsGHgHtmK8NbX0YvTb\nMBm247bXvNFJdRHxT7Iucez29K5gzO3DgcHS13xc+MLgJszdycq6KbQLNG3oRSNk\nxLvNJZeIN6c2aL2iRT5vC1qVyh4Bwvyz6kgcOS1GFdZ7i5qyOQWZlKpLJ96GDH+n\nFLl/yllbAgMBAAECggEANyHc3QEr9Rw13PwF+Zg4lLvfwn3QluYVzyC3yoKsxUSQ\nTFl6jgMOmzAIOI79r6fCRXVCzkq0SKY92uGGUmEF/njSyrCYmqaQj1Iwd7qh7nll\nhEHDhbmqxAlEUbEJV6KRHuCuEOH80klFYQzTvAIl12dEU7zAaWDHB1wofB+bQtRx\nabnqDs4ySkaLH0mTvAgxRt/Nwx387CxZ/5vIhuS6XKazqR/gf9AwA4woR+CXmRkQ\ntlSTO+TSfi9JXkzLz+Tr6BkoLRY3TqfWbyrTlZnWcmC6vmm/JH9i0RDENzy9/oPX\nXklRjuO8OoT+cWwo8sXiPZbiyIV393NVmMBpi++jAQKBgQDzMhydQbLzqSSl051I\nBCqJiNq8Tw7UTiaU6viL1eDM4UUY7b+hrSTsMNNxmwIqf06jEa7pXo9aXSo6128q\n0N/beVWUNJbiGQ4Ahfzlv0KOuBI4OH/h8JA00zoEoVrir0+6+vFe+L4PiAUEvObe\nZC3wOUiDnis2pfBC/CJrixOpcQKBgQDtmJ0ILQVf+dibyPBEOOHSG9F4ERscVmIl\nJwJUphOnSTmqiz6PXBSD6n1pxHUEr3Ww7NhzHxNSLtvYCFzkgI5mSAo8puvF0IIn\nPGjdFXnvKJAtoVcM2YTRDcBdHoKYJstwQdpWIwMwtHNxTmbnkHX1NWu+zRhIOoIf\nDJfx5n5piwKBgAH6VVs+DouGw6KJnwzX49SshULkzbUSUaQCaTUR7zsbVemG/Xj+\nJH+7Qez5msHnuScAXNDPERFmEpLZ77CEdF2flf+XkeaS15dPf6gKryrj+ln0s62N\nvE6BrUYeXdPcIyTdJ5tjIICV1ZydQK9sVydN//X6ElXmcZbJ4CnJvsYxAoGAVezM\nVYmamQQNPwGjSrjbihW/YlGlYVEoO1FpOV26W9RSg4fJ/ySI0tA5vMdsnl4qDOsK\nuE9zuFPz86PKnGSVmw3QjfC78ZUfjLr/HX1H1KLxyV7A0YfUzZnQiJyhFA9roVRf\ndqlA3RtVaJO3CWWoEx7XsXAQqQZnynzOcpAuBVMCgYEAq9aMb8Pd9KbofyGebxxx\nG3tM0erP0Aeq4PhVz4QZ2uu7RDndtJiOCwQQYCcCAl14xAGSwm9KTlaaOc2irT/I\nq5jiGq16/irNanAZlUAR5MgKTHxOL9XOdM7D/f9EnAtF1E7Dje4ArcmnfB8KpmPC\n1WYACVERff5J0qjm+lisHQY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tim-249@manage-online-shop-uneeds.iam.gserviceaccount.com",
+  "client_id": "101631327124278645465",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tim-249%40manage-online-shop-uneeds.iam.gserviceaccount.com"
+}
